@@ -1,0 +1,2 @@
+854976 4723445 1635138553529315474 dfd7706a1b0d659555784a32fda1efe5 /home/mocqoro/Programming/Zig/Test/zig-cache/o/f3c139d5a3a744413d15e2bdbc6dc8df/Test.o
+51350 4066616 1635106018253701316 d38413ae91fdcdcfb5d599f37cea240c /home/mocqoro/.cache/zig/o/e5ce7034098a13b59cbc607c3c54f68b/libcompiler_rt.a

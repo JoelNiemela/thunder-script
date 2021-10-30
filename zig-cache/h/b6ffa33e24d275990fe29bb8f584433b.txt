@@ -1,0 +1,2 @@
+4122272 4723462 1635127925449661059 b5927871c4f6c344ff5420f24abc268e /home/mocqoro/Programming/Zig/Test/zig-cache/o/13fa1c7936099d54a53ffafadd066c14/build.o
+51350 4066616 1635106018253701316 d38413ae91fdcdcfb5d599f37cea240c /home/mocqoro/.cache/zig/o/e5ce7034098a13b59cbc607c3c54f68b/libcompiler_rt.a
